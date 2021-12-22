@@ -1,0 +1,3 @@
+[submodule "biobb_adaptors"]
+	path = biobb_adaptors
+	url = https://github.com/bioexcel/biobb_adapters.git
